@@ -1,6 +1,6 @@
 var global_settings = {
-	urlCORS: 'http://189.204.141.193/FlotillaCartaFacturaApi',
-	uploadPath: 'C:/Produccion/Flotillas/flotillasCartaFactura/flotillav2/flotillasv2/app/uploads/',
-	downloadPath : 'http://189.204.141.193/FlotillaCartaFacturaApi/Documentos/'
+	urlCORS: 'http://192.168.20.9/FlotillaCartaFacturaApi',
+	uploadPath: 'C:/Desarrollo/Flotillas/flotillasv2/app/uploads/',
+	downloadPath : 'http://192.168.20.9/FlotillaCartaFacturaApi/Documentos/'
 }
 
